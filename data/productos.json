@@ -8,6 +8,22 @@
     "specs": "GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro"
   },
   {
+    "name": "Lector de Código de Barras Zebra DS2278 1D / 2D / USB-C",
+    "original_price": 210.0,
+    "price_with_margin": 223.2,
+    "image": "https://cdn.visaovip.com/img/prod/leitor-de-codigo-de-barras-zebra-ds2278-1d-2d-usb-c/58766/737286.jpg",
+    "category": "Otros",
+    "specs": "Lector de Código de Barras Zebra DS2278 1D / 2D / USB-C"
+  },
+  {
+    "name": "TV Smart JVC LT-100KM958 100\" Ultra HD / 4K / QD Mini LED / Google TV",
+    "original_price": 2349.0,
+    "price_with_margin": 2758.7999999999997,
+    "image": "https://cdn.visaovip.com/img/prod/tv-smart-jvc-lt-100km958-100-ultra-hd-4k-qd-mini-led-google-tv/58681/736863.jpg",
+    "category": "Otros",
+    "specs": "TV Smart JVC LT-100KM958 100\" Ultra HD / 4K / QD Mini LED / Google TV"
+  },
+  {
     "name": "Monitor MSI Pro MP243W E14 23.8\" Full HD IPS LED 144Hz / 1Ms - Blanco",
     "original_price": 99.0,
     "price_with_margin": 106.8,
@@ -78,14 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-gigabyte-windforce-oc-8gb-geforce-rtx5050-gddr6-gv-n5050wf2oc-8gd/57783/732083.jpg",
     "category": "Componentes",
     "specs": "8GB GeForce RTX5050 GDDR6 - GV-N5050WF2OC-8GD"
-  },
-  {
-    "name": "Placa Madre Macrovip MV-B650 Socket AM5 / VGA / DDR5",
-    "original_price": 69.0,
-    "price_with_margin": 76.2,
-    "image": "https://cdn.visaovip.com/img/prod/placa-mae-macrovip-mv-b650-socket-am5-vga-ddr5/57701/731811.jpg",
-    "category": "Componentes",
-    "specs": "DDR5"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
